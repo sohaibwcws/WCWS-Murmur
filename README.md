@@ -1,4 +1,6 @@
 # WCWS-Whisper: Real-Time Speech Transcription Application
+![Alt text](wcws.png)
+
 
 A modern, desktop-based real-time speech transcription application developed by Sohaib Khan. This application leverages OpenAI's Whisper model to provide accurate speech-to-text conversion with a beautiful, user-friendly interface.
 
